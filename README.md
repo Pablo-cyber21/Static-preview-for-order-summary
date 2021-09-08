@@ -9,7 +9,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - Html and css.
-  - I have gained lot of in terms of my deadline handling and general project handling.
+  - A good learning experience to sharpen my html and css skills and also general project handling.
   - Future implementation using a css(Tailwind).
 - Asiimawe Rodrick Pablo.(author)
 - Frontendmentor.io
