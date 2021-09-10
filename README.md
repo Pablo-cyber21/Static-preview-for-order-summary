@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://pablo-cyber21.github.io/Static-preview-for-order-summary/](https://your-live-site-url.com)
+- Live Site URL: [https://pablo-cyber21.github.io/Static-preview-for-order-summary/](https://pablo-cyber21.github.io/Static-preview-for-order-summary/)
 
 ## My process
 
